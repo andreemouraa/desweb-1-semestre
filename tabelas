@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Tabela</title>
+        <meta charset="utf-8">
+    <style>
+		table, th, td {
+			border: 1px solid black; 
+			border-collapse: colapse;
+		}
+	</style>
+  
+  </head>
+  <body>
+   <h1>Tabelas</h1>
+    <table>
+    <caption>Título da tabela</caption>
 
+      <tr>
+        <th>Coluna A</th>
+        <th>Coluna B</th>
+        <th>Coluna C</th>
+     </tr>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+      </tr>
+      </table>
+    
+     
+     
+        
+    
