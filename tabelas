@@ -15,7 +15,6 @@
    <h1>Tabelas</h1>
     <table>
     <caption>Título da tabela</caption>
-
       <tr>
         <th>Coluna A</th>
         <th>Coluna B</th>
@@ -27,10 +26,28 @@
         <td>3</td>
       </tr>
       </table>
-      <h1>tabuleiro de xadrez</h1>
+      <h1>Exercicios</h1>
+      <table>
+      <caption>Estados do Brasil e suas respectivas capitais</caption>
+      <head>
+      	<style>
+		table, th, td {
+			border: 1px solid black; 
+			border-collapse: colapse;
+                  background-color: white;
+		}
+	</style>
+	<tr>
+		<td>Acre</td>
+		<td>Rio Brano</td>
+		<td>Alagoas/td>
+		<td>Amapá</td>
+		<td>Amazonas</td>
+		<td>Bahia</td>
+		<td>Salvador</td>
+	
+	</tr>
 
-    
-     
-     
-        
-    
+</head>
+      
+	
