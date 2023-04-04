@@ -14,21 +14,21 @@ Exercício 6.  Defina o que são os browers
 Exercício 7.  Defina o conceito de renderização.
 é o processamento para combinação de um material bruto digitalizado como imagens, vídeos ou áudio e os recursos incorporados ao software como transições, legendas e efeitos.
 Exercício 8.  Qual é o objetivo do HTML?
-
+definir o significado e a estrutura do conteudo da web.
 Exercício 9.  Qual é o objetivo do CSS?
-
+separar o conteúdo do site de sua apresentação visual, alterando elementos como cor do texto, fonte e espaçamento entre blocos, assim como todo o aspecto estético de uma página.
 Exercício 10.  Qual é a tag raíz de um documento em HTML?
-
+<html>
 Exercício 11.  Qual é o propósito da tag HEAD?
-
+usada como cabeçalho,ou seja, conjunto de informações de uma pagina de um site.
 Exercício 12.  Qual é o propósito da tag BODY?
-
+representa um conteudo de um documento html
 Exercício 13.  Qual é a tag que representa um comentário em HTML?
-
+<!-->
 Exercício 14.  Qual é a tag que representa um parágrafo?
-
+<p>
 Exercício 15.  Qual é a tag que representa o metadado título de um documento em HTML?
-
+<title>
 Exercício 16.  Qual é a tag que configura o documento HTML para lidar com caracteres especiais?
 
 Exercício 17.  Qual é a tag que representa um título/seção em um documento HTML? Quantos níveis possuem?
