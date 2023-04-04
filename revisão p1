@@ -60,23 +60,24 @@ Exercício 29.  Qual é a tag que representa um pulo de linha?
 Exercício 30.  Qual é a tag que representa uma linha horizontal?
 <hr>
 Exercício 31.  Qual é a tag que representa uma imagem?
-
+<img>
 Exercício 32.  Qual é a tag que representa um link?
-
+<a>
 Exercício 33.  Qual é a propriedade da tag que define a imagem a ser exibida?
-
+srcset
 Exercício 34.  Como é definido o tamanho de uma imagem?
-
+pela altura e largura dos pixels
 Exercício 35.  Como é definido o endereço para qual um link direciona?
 
 Exercício 36.  Qual é a tag que representa ua tabela?
-
+<table>
 Exercício 37.  Qual é a tag que representa uma linha em uma tabela?
-
+<tr>
 Exercício 38.  Qual é a tag que representa uma célula de dados em uma tabela?
-
+<tb>
 Exercício 39.  Qual é a tag que representa uma célula de cabeçalho em uma tabela?
-
+<th>
 Exercício 40.  Qual é a propriedade que define que uma célula será mesclada em linha?
-
+colspan
 Exercício 41.  Qual é a propriedade que define que uma célula será mesclada em coluna?
+rowspan
