@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>tags semânticas</title>
+  </head>
+  <body>
+    <h1>tags semanticas</h1>
+    
+    <p style="background:green">nivel de bloco 
+       <span style="background:red">nivel em linha</span>
+	<div>uma div</div>
+</p>
+<span style="background:brown">nivel em linha</span>
+
+</body>
+</html>
+
+  
+  
+  
