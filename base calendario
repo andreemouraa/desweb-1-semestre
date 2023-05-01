@@ -1,1 +1,79 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Trabalho 2</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+      <style>
+        th, tr, td {           
+   border: 1px solid black;
+      text-align: center;
+         padding: 10px;
+        } 
+        table {
+          border: 1px solid black;
+            border-spacing:0px;
+            
+          
+      </style>
+   <h1><b>Calêndario acadêmico 2023</b></h1>
+   <h2>Cursos presenciais, exceto Medicina
+Regime anual / regime semestral – Univille</h2>
+      <table>
+        <tr>
+          <th colspan="7">MÊS</th>
+      <tr>
+        <th>D</th>
+        <th>S</th>
+        <th>T</th>
+        <th>Q</th>
+        <th>Q</th>
+        <th>S</th>
+        <th>S</th>
+      </tr>
+      <tr>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIADIADIA</td>
+        <td>DIADIA</td>
+        <td>DIA</td>
+    </tr>
+    <tr>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        </tr>
+   <tr>
+       <td>DIA</td>
+        <td>DIA</td>
+         <td>DIA</td>
+          <td>DIA</td>
+           <td>DIA</td>
+            <td>DIA</td>
+             <td>DIA</td>
+             </tr>
+     <tr>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+     </tr>
+     <tr>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+  </table>
