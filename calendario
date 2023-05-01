@@ -540,9 +540,9 @@ Regime anual / regime semestral – Univille</h2>
         <td>4</td>
         <td>5</td>
         <td>6</td>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
+        <td bgcolor="#008000"><b>7</b></td>
+        <td bgcolor="#008000"><b>8</b></td>
+        <td bgcolor="#008000">9</td>
         </tr>
    <tr>
        <td><b>10</b></td>
@@ -560,7 +560,7 @@ Regime anual / regime semestral – Univille</h2>
         <td>20</td>
         <td>21</td>
         <td>22</td>
-        <td>23</td>
+        <td bgcolor="#008000"><b>23</b></td>
      </tr>
      <tr>
         <td><b>24</b></td>
