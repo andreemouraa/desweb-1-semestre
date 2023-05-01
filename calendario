@@ -82,6 +82,7 @@ Regime anual / regime semestral – Univille</h2>
         <td></td>
         <td></td>
   </table>
+  <br>
   <table>
         <tr>
           <th bgcolor= "#98FB98" colspan="7">Fevereiro</th>
@@ -124,7 +125,7 @@ Regime anual / regime semestral – Univille</h2>
      <tr>
         <td>19</td>
         <td bgcolor="#008000">20</td>
-        <td bgcolor="#008000">21</td>
+        <td bgcolor="#008000"><b>21</b></td>
         <td>22</td>
         <td>23</td>
         <td>24</td>
@@ -139,6 +140,7 @@ Regime anual / regime semestral – Univille</h2>
         <td></td>
         <td></td>
   </table>
+  <br>
   <table>
         <tr>
           <th bgcolor= "#98FB98" colspan="7">Março</th>
@@ -165,7 +167,7 @@ Regime anual / regime semestral – Univille</h2>
         <td>6</td>
         <td>7</td>
         <td>8</td>
-        <td bgcolor="#008000">9</td>
+        <td bgcolor="#008000"><b>9</b></td>
         <td bgcolor="#008000">10</td>
         <td bgcolor="#008000">11</td>
         </tr>
