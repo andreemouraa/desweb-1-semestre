@@ -268,4 +268,63 @@ Regime anual / regime semestral – Univille</h2>
                <td></td>
      </tr>
   </table>
+  <br>
+  <br>
+   <table>
+        <tr>
+          <th bgcolor= "#98FB98" colspan="7">Maio</th>
+      <tr>
+        <th bgcolor="#3CB371">D</th>
+        <th bgcolor="#3CB371">S</th>
+        <th bgcolor="#3CB371">T</th>
+        <th bgcolor="#3CB371">Q</th>
+        <th bgcolor="#3CB371">Q</th>
+        <th bgcolor="#3CB371">S</th>
+        <th bgcolor="#3CB371">S</th>
+      </tr>
+      <tr>
+        <td><b>DIA</b></td>
+        <td bgcolor="#008000"><b>1</b></td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td><b>7</b></td>
+        <td>8</td>
+        <td>9</td>
+        <td>10</td>
+        <td>11</td>
+        <td>12</td>
+        <td>13</td>
+        </tr>
+   <tr>
+       <td><b>14</b></td>
+        <td>15</td>
+         <td>16</td>
+          <td>17</td>
+           <td>18</td>
+            <td>19</td>
+             <td>20</td>
+             </tr>
+     <tr>
+        <td><b>21</b></td>
+        <td>22</td>
+        <td>23</td>
+        <td>24</td>
+        <td>25</td>
+        <td>26</td>
+        <td>27</td>
+     </tr>
+     <tr>
+        <td><b>28</b></td>
+        <td>29</td>
+        <td>30</td>
+        <td>31</td>
+        <td>DIA</td>
+        <td>DIA</td>
+        <td>DIA</td>
+  </table>
   
