@@ -24,13 +24,13 @@ Regime anual / regime semestral – Univille</h2>
         <tr>
           <th bgcolor= "#98FB98" colspan="7">MÊS</th>
       <tr>
-        <th>D</th>
-        <th>S</th>
-        <th>T</th>
-        <th>Q</th>
-        <th>Q</th>
-        <th>S</th>
-        <th>S</th>
+        <th bgcolor="#3CB371">D</th>
+        <th bgcolor="#3CB371">S</th>
+        <th bgcolor="#3CB371">T</th>
+        <th bgcolor="#3CB371">Q</th>
+        <th bgcolor="#3CB371">Q</th>
+        <th bgcolor="#3CB371">S</th>
+        <th bgcolor="#3CB371">S</th>
       </tr>
       <tr>
         <td>DIA</td>
