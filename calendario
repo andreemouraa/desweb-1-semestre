@@ -14,8 +14,13 @@
         table {
           border: 1px solid black;
             border-spacing:0px;
-            
-          
+        }
+        h3{
+          float: right;
+          }
+          br{
+            float: right;
+            }   
       </style>
    <h1><b>Calêndario acadêmico 2023</b></h1>
    <h2>Cursos presenciais, exceto Medicina
@@ -33,7 +38,7 @@ Regime anual / regime semestral – Univille</h2>
         <th bgcolor="#3CB371">S</th>
       </tr>
       <tr>
-        <td bgcolor="#008000">1</td>
+        <td bgcolor="#008000"><b>1</b></td>
         <td>2</td>
         <td>3</td>
         <td>4</td>
@@ -42,7 +47,7 @@ Regime anual / regime semestral – Univille</h2>
         <td>7</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td><b>8</b></td>
         <td>9</td>
         <td>10</td>
         <td>11</td>
@@ -51,7 +56,7 @@ Regime anual / regime semestral – Univille</h2>
         <td>14</td>
         </tr>
    <tr>
-       <td>15</td>
+       <td><b>15</b></td>
         <td>16</td>
          <td>17</td>
           <td>18</td>
@@ -60,18 +65,19 @@ Regime anual / regime semestral – Univille</h2>
              <td>21</td>
              </tr>
      <tr>
-        <td>22</td>
+        <td><b>22</b></td>
         <td>23</td>
         <td>24</td>
         <td>25</td>
         <td>26</td>
         <td>27</td>
+       <td>28</td>
      </tr>
      <tr>
-        <td>28</td>
-        <td>29</td>
+        <td><b>29</b></td>
         <td>30</td>
         <td>31</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
