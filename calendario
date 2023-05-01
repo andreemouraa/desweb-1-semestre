@@ -283,7 +283,7 @@ Regime anual / regime semestral – Univille</h2>
         <th bgcolor="#3CB371">S</th>
       </tr>
       <tr>
-        <td><b>DIA</b></td>
+        <td><b></b></td>
         <td bgcolor="#008000"><b>1</b></td>
         <td>2</td>
         <td>3</td>
@@ -323,8 +323,8 @@ Regime anual / regime semestral – Univille</h2>
         <td>29</td>
         <td>30</td>
         <td>31</td>
-        <td>DIA</td>
-        <td>DIA</td>
-        <td>DIA</td>
+        <td></td>
+        <td></td>
+        <td></td>
   </table>
   
