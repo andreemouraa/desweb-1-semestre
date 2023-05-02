@@ -15,14 +15,13 @@
           border: 1px solid black;
             border-spacing:0px;
         }
-        h3{
-          float: right;
+        
           }
           br{
             float: right;
             }   
       </style>
-   <h1><b>Calêndario acadêmico 2023</b></h1>
+   <h1><b>Calendário acadêmico 2023</b></h1>
    <h2>Cursos presenciais, exceto Medicina
 Regime anual / regime semestral – Univille</h2>
       <table>
