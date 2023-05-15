@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta charset="uft-8">
+    <title>posicionamento CSS</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+ <style>
+ .base{
+    background:blue;
+    border:1px back;
+    width:300px;
+    heigth:250px;   
+}
+.filho1{
+  background:red;
+  heigth:100px;
+    border:1px black;
+    width:200px;
+}
+.filho2{
+  background:green;
+  height:100px;
+  border: 1px black;
+  width:260px;
+}
+</style>
+ <h1>posicionamneto CSS</h1>
+  <div class="base">
+    <div class="filho1"></div>
+    <div class="filho2></div>
+  </div>
+  </body>
+</html>
